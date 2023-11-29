@@ -40,11 +40,11 @@ class Guide(TeethApp):
 
     def build_app(self):
         st.title("More Coming Soon")
-        st.markdown("Made by Huayuan Song for the 10 ECTS 02830 Advanced Project in Digital Media Technology course at the Technical University of Denmark.")
-        st.markdown("ML backend is based on MeshSegNet architecture by [Lian et al.](https://ieeexplore.ieee.org/abstract/document/8984309).")
-        st.markdown("The model has been trained on intra-oral scans of both upper and lower jaws annotated, validated by professionals in the 3DTeethSeg'22 Challenge by [Ben-Hamadou et al.](https://arxiv.org/abs/2305.18277).")
+        st.markdown("Made by [Huayuan Song](https://www.linkedin.com/in/huayuansong/) for the 10 ECTS [02830 Advanced Project in Digital Media Technology](https://kurser.dtu.dk/course/02830) project course at the [Technical University of Denmark (DTU)](https://dtu.dk/english).")
+        st.markdown("ML backend is based on MeshSegNet architecture by [Lian et al.](https://ieeexplore.ieee.org/abstract/document/8984309)")
+        st.markdown("The model has been trained on intra-oral scans of both upper and lower jaws annotated, validated by professionals in the 3DTeethSeg'22 Challenge by [Ben-Hamadou et al.](https://arxiv.org/abs/2305.18277)")
         st.markdown("**Thanks for trying the app out!**")
-        st.image("illu.png")
+        st.image("illustration.png")
 
 if __name__ == "__main__":
     app = Guide()
