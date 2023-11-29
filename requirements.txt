@@ -2,10 +2,10 @@ streamlit==1.28.2
 pyvista==0.36.1
 pythreejs==2.4.2
 stpyvista==0.0.5
-open3d==0.15.1
+open3d==0.15.2
 torch==1.11.0
-scikit-learn==0.23.2
-scipy==1.5.2
-cython==0.29.21
-matplotlib==3.3.2
+scikit-learn
+stqdm
+scipy
+matplotlib
 pillow==10.1.0
