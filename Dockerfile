@@ -26,5 +26,5 @@ WORKDIR $HOME/app
 
 COPY --chown=user . $HOME/app
 
-# Run Streamlit app
+# Finish deployment and run Streamlit app
 CMD ["streamlit", "run", "ⓘ_Introduction.py", "--server.port=7860", "--server.address=0.0.0.0"]
