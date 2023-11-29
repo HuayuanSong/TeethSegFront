@@ -7,4 +7,4 @@ The model has been trained on intra-oral scans of both upper and lower jaws anno
 
 Author: [Huayuan Song](https://www.linkedin.com/in/huayuansong/)
 
-![Example](https://github.com/HuayuanSong/TeethSeg/blob/main/branch]/illustration.png?raw=true)
+![Example]([https://github.com/HuayuanSong/TeethSegFront/blob/main/illustration.png])
