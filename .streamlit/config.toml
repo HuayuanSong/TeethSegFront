@@ -1,10 +1,11 @@
 [theme]
-primaryColor="#e5ab00"
-backgroundColor="#0e1117"
-secondaryBackgroundColor="#282929"
-textColor = "#ffffff"
+primaryColor="#04045c"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f1f2f6"
+textColor = "#38343c"
 font="sans serif"
 
 [server]
 maxUploadSize = 200
 enableXsrfProtection = false
+maxMessageSize = 1000
