@@ -90,7 +90,7 @@ class STNkd(nn.Module):
         return x
 
 class MeshSegNet(nn.Module):
-    def __init__(self, num_classes=15, num_channels=15, with_dropout=True, dropout_p=0.5):
+    def __init__(self, num_classes=17, num_channels=15, with_dropout=True, dropout_p=0.5):
         super(MeshSegNet, self).__init__()
         self.num_classes = num_classes
         self.num_channels = num_channels
@@ -644,7 +644,7 @@ def segmentation_main(obj_path):
     upsampling_method = 'KNN'
 
     model_path = 'model.tar'
-    num_classes = 15
+    num_classes = 17
     num_channels = 15
 
     # set model
