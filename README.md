@@ -1,5 +1,5 @@
 # 3D Teeth Scan Segmentation - frontend
-Link to deployed app on HuggingFace Spaces: https://huggingface.co/spaces/huathedev/3D_Teeth_Scan_Semantic_Segmentation<br><br>
+Link to deployed app on Hugging Face Spaces: https://huggingface.co/spaces/huathedev/3D_Teeth_Scan_Semantic_Segmentation<br><br>
 This repository contains the code for the Streamlit app frontend for the 3D Teeth Scan Segmentation project carried out in the 10 ECTS [02830 Advanced Project in Digital Media Technology](https://kurser.dtu.dk/course/02830) (E23) course at the [Technical University of Denmark (DTU)](https://dtu.dk/english).<br><be>
 
 Link to repo containing model architecture: [TeethSegModelling](https://github.com/HuayuanSong/TeethSegModelling)<br><br>
