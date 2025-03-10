@@ -15,4 +15,10 @@ Author: [Huayuan Song](https://www.linkedin.com/in/huayuansong/)
 
 ## Star History
 
-[![Star History Chart]([https://api.star-history.com/svg?repos=EvolvingLMMs-Lab/EgoLife&type=Date)](https://star-history.com/#EvolvingLMMs-Lab/EgoLife&Date](https://www.star-history.com/#HuayuanSong/TeethSegFront&Date))
+<a href="https://www.star-history.com/#HuayuanSong/TeethSegFront&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HuayuanSong/TeethSegFront&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HuayuanSong/TeethSegFront&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HuayuanSong/TeethSegFront&type=Date" />
+ </picture>
+</a>
