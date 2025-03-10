@@ -12,3 +12,7 @@ The model has been trained on intra-oral scans of both upper and lower jaws anno
 Author: [Huayuan Song](https://www.linkedin.com/in/huayuansong/)
 <img width="1342" alt="illustration" src="https://github.com/HuayuanSong/TeethSegFront/assets/64536148/e149c313-7604-4fc6-bac6-76842b2cd8fa">
 *disclaimer: Not intended for clinical use -only POC.
+
+## Star History
+
+[![Star History Chart]([https://api.star-history.com/svg?repos=EvolvingLMMs-Lab/EgoLife&type=Date)](https://star-history.com/#EvolvingLMMs-Lab/EgoLife&Date](https://www.star-history.com/#HuayuanSong/TeethSegFront&Date))
